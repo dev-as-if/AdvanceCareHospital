@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdvanceCareHospital/static/css/main.91b8a24e.css",
-    "main.js": "/AdvanceCareHospital/static/js/main.f3223b6d.js",
+    "main.js": "/AdvanceCareHospital/static/js/main.badaeb61.js",
     "static/js/488.740051ab.chunk.js": "/AdvanceCareHospital/static/js/488.740051ab.chunk.js",
     "static/media/1.jpg": "/AdvanceCareHospital/static/media/1.249ba6690e5a76860797.jpg",
     "static/media/hospital-logo.jpeg": "/AdvanceCareHospital/static/media/hospital-logo.c56b83868c2cf56bb2ee.jpeg",
@@ -14,11 +14,11 @@
     "static/media/2.jpg": "/AdvanceCareHospital/static/media/2.f574a178e95bd2bd8302.jpg",
     "index.html": "/AdvanceCareHospital/index.html",
     "main.91b8a24e.css.map": "/AdvanceCareHospital/static/css/main.91b8a24e.css.map",
-    "main.f3223b6d.js.map": "/AdvanceCareHospital/static/js/main.f3223b6d.js.map",
+    "main.badaeb61.js.map": "/AdvanceCareHospital/static/js/main.badaeb61.js.map",
     "488.740051ab.chunk.js.map": "/AdvanceCareHospital/static/js/488.740051ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b8a24e.css",
-    "static/js/main.f3223b6d.js"
+    "static/js/main.badaeb61.js"
   ]
 }
