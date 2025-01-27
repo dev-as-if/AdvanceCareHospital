@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.91b8a24e.css",
-    "main.js": "/react-gh-pages/static/js/main.28018ffd.js",
-    "static/js/488.740051ab.chunk.js": "/react-gh-pages/static/js/488.740051ab.chunk.js",
-    "static/media/1.jpg": "/react-gh-pages/static/media/1.249ba6690e5a76860797.jpg",
-    "static/media/hospital-logo.jpeg": "/react-gh-pages/static/media/hospital-logo.c56b83868c2cf56bb2ee.jpeg",
-    "static/media/7.jpg": "/react-gh-pages/static/media/7.c3c1df9a903bd3c12d84.jpg",
-    "static/media/9.jpg": "/react-gh-pages/static/media/9.56dd8640de6d0712a20e.jpg",
-    "static/media/8.jpg": "/react-gh-pages/static/media/8.fdb55097b5f83c93bb87.jpg",
-    "static/media/5.jpg": "/react-gh-pages/static/media/5.ae042b146cf00cfc1bfa.jpg",
-    "static/media/4.jpg": "/react-gh-pages/static/media/4.ec22efc17158d297edb7.jpg",
-    "static/media/3.jpg": "/react-gh-pages/static/media/3.9413a1ec0aae534cfbe8.jpg",
-    "static/media/2.jpg": "/react-gh-pages/static/media/2.f574a178e95bd2bd8302.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.91b8a24e.css.map": "/react-gh-pages/static/css/main.91b8a24e.css.map",
-    "main.28018ffd.js.map": "/react-gh-pages/static/js/main.28018ffd.js.map",
-    "488.740051ab.chunk.js.map": "/react-gh-pages/static/js/488.740051ab.chunk.js.map"
+    "main.css": "/AdvanceCareHospital/static/css/main.91b8a24e.css",
+    "main.js": "/AdvanceCareHospital/static/js/main.f3223b6d.js",
+    "static/js/488.740051ab.chunk.js": "/AdvanceCareHospital/static/js/488.740051ab.chunk.js",
+    "static/media/1.jpg": "/AdvanceCareHospital/static/media/1.249ba6690e5a76860797.jpg",
+    "static/media/hospital-logo.jpeg": "/AdvanceCareHospital/static/media/hospital-logo.c56b83868c2cf56bb2ee.jpeg",
+    "static/media/7.jpg": "/AdvanceCareHospital/static/media/7.c3c1df9a903bd3c12d84.jpg",
+    "static/media/9.jpg": "/AdvanceCareHospital/static/media/9.56dd8640de6d0712a20e.jpg",
+    "static/media/8.jpg": "/AdvanceCareHospital/static/media/8.fdb55097b5f83c93bb87.jpg",
+    "static/media/5.jpg": "/AdvanceCareHospital/static/media/5.ae042b146cf00cfc1bfa.jpg",
+    "static/media/4.jpg": "/AdvanceCareHospital/static/media/4.ec22efc17158d297edb7.jpg",
+    "static/media/3.jpg": "/AdvanceCareHospital/static/media/3.9413a1ec0aae534cfbe8.jpg",
+    "static/media/2.jpg": "/AdvanceCareHospital/static/media/2.f574a178e95bd2bd8302.jpg",
+    "index.html": "/AdvanceCareHospital/index.html",
+    "main.91b8a24e.css.map": "/AdvanceCareHospital/static/css/main.91b8a24e.css.map",
+    "main.f3223b6d.js.map": "/AdvanceCareHospital/static/js/main.f3223b6d.js.map",
+    "488.740051ab.chunk.js.map": "/AdvanceCareHospital/static/js/488.740051ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b8a24e.css",
-    "static/js/main.28018ffd.js"
+    "static/js/main.f3223b6d.js"
   ]
 }
