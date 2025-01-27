@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="contact-details">
           <h3>Contact Us</h3>
           <p>📞 +91 7070702916</p>
-          <p>📧 contact@advancecarehospital.com</p>
+          <p>📧 contact@advancedcarehospital.com</p>
           <p>⏰ 24*7 Services</p>
         </div>
         <div className="map">
